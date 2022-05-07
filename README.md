@@ -1,3 +1,3 @@
 # My_Projects_Public
-Projects that I did for learning different types of libraries in python for data analysis.
-These projects are the projects that I think are completed(consists of web scraping with Selenium and deep learning with Tensorflow, Keras), other projects that are not done are in my private repository and they will have their places in here after I am satisfied with them.
+These are the projects that I completed to improve my skills in python for data analysis.
+They consists of web scraping with Selenium and deep learning with Tensorflow, Keras. So, I plan to continue my other projects on deep learning and data analysis.
